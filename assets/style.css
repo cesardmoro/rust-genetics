@@ -11,6 +11,7 @@
     border-radius: 1rem;
     text-align: center;
     font-weight: bold;
+    padding: 2px;
 }
 
 hr{
@@ -54,9 +55,8 @@ body{
 .remove {
     background: #a70b0b;
     border-radius: 100%;
-    padding: 4px;
+    padding: 5px;
     position: relative;
-    top: 2px;
     left: 3px;
     cursor: pointer;
 }
